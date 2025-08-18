@@ -1,12 +1,12 @@
 #note note note
 
-#Problem 1
+######Problem 1
 
 # name = input("What is your name? ")
 
 # print("Hello " + name + ". My name is Jonathan! I am a computer!")
 
-#Problem 2
+######Problem 2
 
 #Solution 1
 # number = int(input("Input a number and I will tell you if it's even or odd! Enter here -> "))
@@ -19,23 +19,24 @@
 #     print(f"{number} is an odd number!")
 
 #Solution 2
-# number = int(input("Input a number and I will tell you if it's even or odd! Enter here -> "))
+    # number = int(input("Input a number and I will tell you if it's even or odd! Enter here -> "))
 
-# result = (number // 2) * 2
+    # result = (number // 2) * 2
 
-# if result == number:
-#     print(f"{number} is an even number!")
-# else:
-#     print(f"{number} is an odd number!")
-
+    # if result == number:
+    #     print(f"{number} is an even number!")
+    # else:
+    #     print(f"{number} is an odd number!")
 
 
 #Problem 3
 
-for x in range(1,11):
-    print(x)
+# for x in range(1,11):
+#     print(x)
 
 #Problem 4
+
+
 
 
 #Problem 5
